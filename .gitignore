@@ -1,0 +1,9 @@
+
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+dataset/mini_speech_commands.zip

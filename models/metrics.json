@@ -1,0 +1,10 @@
+{
+    "accuracy": 0.9468749761581421,
+    "loss": 0.1684606671333313,
+    "precision": 0.9469520007141625,
+    "recall": 0.9468749999999999,
+    "f1_score": 0.9467433446675861,
+    "training_samples": 4096,
+    "validation_samples": 512,
+    "testing_samples": 640
+}
